@@ -35,6 +35,7 @@ const Experience = () => {
           color="#101010"
           metalness={0.5}
         />
+        test
       </mesh>
     </PresentationControls>
   );
